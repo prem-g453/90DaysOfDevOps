@@ -1,4 +1,4 @@
-#### 90 Days DevOps Execution Blueprint 
+#### 90 Days DevOps Execution Blueprint
 
 
 
@@ -144,7 +144,7 @@ Infrastructure basics
 
 Weekdays: 2–2.5 hours daily
 
-
+ 
 
 Weekends: 4–6 hours
 
