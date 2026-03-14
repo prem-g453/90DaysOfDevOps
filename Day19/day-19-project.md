@@ -11,7 +11,7 @@ In this project, I applied shell scripting concepts to automate common server ma
 
 
 
-
+    
 ##### Task 1 – Log Rotation Script
 
 
